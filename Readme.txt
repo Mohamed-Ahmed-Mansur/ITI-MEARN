@@ -1,1 +1,1 @@
-Full Name: Mohamed Ahmed Mansur
+Full Name: Mohamed Ahmed Mansur Kinawy
