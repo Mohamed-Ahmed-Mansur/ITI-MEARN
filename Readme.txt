@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 2- b1 branch
-=======
-1- main branch
->>>>>>> main
+Full Name: Mohamed Ahmed Mansur Kinawy b2 is added
